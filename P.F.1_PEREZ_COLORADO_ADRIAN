@@ -1,0 +1,13 @@
+# Pro.Form.1
+I. Por favor considera las siguientes indicaciones para complementar tu actividad:
+a) Por favor consulta detenidamente los Documentos Digitales y Sitios Web de Consulta Externa señalados en el tema, así como otras fuentes confiables
+b) Con la elaboración de tu cuenta de Github almacena el codigo en tu portafolio e identificando las Funciones, objetos, Clases, Metodos y Procedimientos correspondiente en el archivo Readme.md.
+
+
+-OBJETOS IDENTIFICADOS: BOTON RESTA BOTON SUMA BOTON MULTIPLICA BOTON LIMPIAR BOTON DIVIDE TEXTBOX
+
+-FUNCIONES: DEF EVENT SELFT WX.STATICTEXT SIZE SHOWMODAL
+
+-CLASES: VENTANA CREATESTATUSBAR MESSAGEDIALOG
+
+-METODOS: INT OPERADORES MATEMATICOS + - / * GETVALUE
